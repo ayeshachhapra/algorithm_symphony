@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algorithm_symphony/static/css/main.568816ad.css",
+    "main.js": "/algorithm_symphony/static/js/main.ead69c1f.js",
+    "static/media/ResetEffect.mp3": "/algorithm_symphony/static/media/ResetEffect.af1cdbbbb8d271a38d7a.mp3",
+    "static/media/CompletedEffect.mp3": "/algorithm_symphony/static/media/CompletedEffect.b461f47f9cf6987bf90f.mp3",
+    "index.html": "/algorithm_symphony/index.html",
+    "main.568816ad.css.map": "/algorithm_symphony/static/css/main.568816ad.css.map",
+    "main.ead69c1f.js.map": "/algorithm_symphony/static/js/main.ead69c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568816ad.css",
+    "static/js/main.ead69c1f.js"
+  ]
+}
